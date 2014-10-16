@@ -1,7 +1,7 @@
 Summary:	A command line CD/DVD-Recorder
 Name:		cdrkit
 Version:	1.1.11
-Release:	4
+Release:	5
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://cdrkit.org/releases/%{name}-%{version}.tar.gz
